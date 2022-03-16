@@ -1,0 +1,5 @@
+E:\applications_dotnet\Automatisation Termes\GROUPAMA_RELANCE\GROUPAMA_RELANCE\Relance_Finama\bin\Release\net6.0-windows\publish\GROUPAMA_RELANCE.exe
+E:\applications_dotnet\Automatisation Termes\GROUPAMA_RELANCE\GROUPAMA_RELANCE\Relance_Finama\bin\Release\net6.0-windows\publish\GROUPAMA_RELANCE.dll
+E:\applications_dotnet\Automatisation Termes\GROUPAMA_RELANCE\GROUPAMA_RELANCE\Relance_Finama\bin\Release\net6.0-windows\publish\GROUPAMA_RELANCE.deps.json
+E:\applications_dotnet\Automatisation Termes\GROUPAMA_RELANCE\GROUPAMA_RELANCE\Relance_Finama\bin\Release\net6.0-windows\publish\GROUPAMA_RELANCE.runtimeconfig.json
+E:\applications_dotnet\Automatisation Termes\GROUPAMA_RELANCE\GROUPAMA_RELANCE\Relance_Finama\bin\Release\net6.0-windows\publish\GROUPAMA_RELANCE.pdb

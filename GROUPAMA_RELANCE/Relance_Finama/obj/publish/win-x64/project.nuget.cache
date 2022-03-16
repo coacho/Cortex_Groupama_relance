@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vjxswJtV+VAo92OuaWc3xRtVsWrAqXQWaybkjSN1GW5KG1o6RLQQq6otnaPJoP5GegntbzyYot/rpK6UGM6FwA==",
+  "success": true,
+  "projectFilePath": "\\\\serveur01\\MAO\\applications_dotnet\\Automatisation Termes\\GROUPAMA_RELANCE\\GROUPAMA_RELANCE\\Relance_Finama\\Relance_Finama.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathieu.launay\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.2\\microsoft.netcore.app.runtime.win-x64.6.0.2.nupkg.sha512",
+    "C:\\Users\\mathieu.launay\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.2.nupkg.sha512",
+    "C:\\Users\\mathieu.launay\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.2\\microsoft.aspnetcore.app.runtime.win-x64.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

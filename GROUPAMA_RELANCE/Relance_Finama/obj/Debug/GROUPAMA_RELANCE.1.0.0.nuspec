@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GROUPAMA_RELANCE</id>
+    <version>1.0.0</version>
+    <authors>GROUPAMA_RELANCE</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\applications_dotnet\Automatisation Termes\GROUPAMA_RELANCE\GROUPAMA_RELANCE\Relance_Finama\bin\Debug\net6.0-windows\GROUPAMA_RELANCE.runtimeconfig.json" target="lib\net6.0-windows7.0\GROUPAMA_RELANCE.runtimeconfig.json" />
+    <file src="E:\applications_dotnet\Automatisation Termes\GROUPAMA_RELANCE\GROUPAMA_RELANCE\Relance_Finama\bin\Debug\net6.0-windows\GROUPAMA_RELANCE.dll" target="lib\net6.0-windows7.0\GROUPAMA_RELANCE.dll" />
+  </files>
+</package>

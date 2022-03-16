@@ -1,0 +1,4 @@
+System.IO.IOException: The process cannot access the file '\\Data-ctx\FICHIERS\FICHIERS_TRAVAIL\Finama\relance\finama_relance.temp' because it is being used by another process.
+   at System.IO.FileSystem.DeleteFile(String fullPath)
+   at System.IO.File.Delete(String path)
+   at Relance_Finama.Module_controle.Suppression_fichier(String fic_in) in C:\Users\mathieu.launay\Desktop\Code\Relance_Finama\Relance_Finama\Relance_Finama\Module_controle.vb:line 101
